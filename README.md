@@ -12,7 +12,7 @@ _____________________________________________________
 Now I'm working with JAVA and Spring Boot projects in IntelliJ.
 _____________________________________________________
 
-🧰 Toolbox
+🧰 **Languages and tools**
 
 ![image](https://user-images.githubusercontent.com/94042617/165047870-015eab32-1617-4284-bd07-944686ca8d6c.png)
 ![image](https://user-images.githubusercontent.com/94042617/165047942-ff3e6364-5f52-4a77-a338-43d043108285.png)
@@ -26,10 +26,14 @@ _____________________________________________________
 ![image](https://lh3.googleusercontent.com/v_bN4wSYKVT8ZX4y7SqTxfD-eFtfL4Df5puacRU3wDu9JX9kNM9OK3XmplVuJK4q-yhr-r0d-3z3shp8GVc0iYY1=w128-h128-e365-rj-sc0x00ffffff)
 ![image](https://user-images.githubusercontent.com/94042617/165053281-541ffb6d-d8dc-4bfa-8c1f-71afba4fbc9a.png)
 
+_____________________________________________________
 
+**Connect with me:**
 
-
-My LinkedIn profile: https://www.linkedin.com/in/jevgenijs-senderovics-5b011b181/
+My LinkedIn profile: https://www.linkedin.com/in/jevgenijs-senderovics/
 
 My e-mail: evgzlk@gmail.com
+
+My CodingGame profile: https://www.codingame.com/profile/c6fe751ec19479322d7ff482bccc846b2805674
+_____________________________________________________
 
