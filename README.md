@@ -28,6 +28,16 @@ _____________________________________________________
 
 _____________________________________________________
 
+**My latest projects**:
+
+[Flight planner](https://github.com/Eugenio36/flight-planner)
+
+[Java Exercises](https://github.com/Eugenio36/codelex-exercises)
+
+I also have completed some Javascript exercises.
+
+I`m currently working un UI project.
+
 **Connect with me:**
 
 My LinkedIn profile: https://www.linkedin.com/in/jevgenijs-senderovics/
