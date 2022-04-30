@@ -41,10 +41,10 @@ _____________________________________________________
 
 **Connect with me:**
 
-My LinkedIn profile: https://www.linkedin.com/in/jevgenijs-senderovics/
+My [LinkedIn](https://www.linkedin.com/in/jevgenijs-senderovics/) profile.
 
-My e-mail: evgzlk@gmail.com
+My [e-mail](evgzlk@gmail.com) 
 
-My CodingGame profile: https://www.codingame.com/profile/c6fe751ec19479322d7ff482bccc846b2805674
+My [CodingGame](https://www.codingame.com/profile/c6fe751ec19479322d7ff482bccc846b2805674) profile.
 _____________________________________________________
 
