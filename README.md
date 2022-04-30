@@ -36,7 +36,7 @@ _____________________________________________________
 
 I also have completed some [Javascript exercises](https://github.com/Eugenio36/JavaScript-exercises).
 
-I`m currently working un [UI project](https://github.com/Eugenio36/front-end-with-angular-cli).
+I`m currently working on [UI project](https://github.com/Eugenio36/front-end-with-angular-cli).
 _____________________________________________________
 
 **Connect with me:**
