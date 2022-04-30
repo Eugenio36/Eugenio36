@@ -34,9 +34,10 @@ _____________________________________________________
 
 [Java Exercises](https://github.com/Eugenio36/codelex-exercises)
 
-I also have completed some Javascript exercises.
+I also have completed some [Javascript exercises](https://github.com/Eugenio36/JavaScript-exercises).
 
 I`m currently working un [UI project](https://github.com/Eugenio36/front-end-with-angular-cli).
+_____________________________________________________
 
 **Connect with me:**
 
