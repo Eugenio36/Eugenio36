@@ -4,12 +4,12 @@ _____________________________________________________
 :computer: I specialize in JAVA and Spring Boot framework, as well as have basic knowledge in TypeScript, HTML/CSS and Angular framework.
 _____________________________________________________
 
-In my free time I visit gym, doing sports (football, hockey) and playing snooker and table tennis.
+:soccer: In my free time I visit gym, doing sports (football, hockey) and playing snooker and table tennis.
 
-My hobbies are playing games, watching movies, reading IT articles.
+:video_game: My hobbies are playing games, watching movies, reading IT articles.
 _____________________________________________________
 
-Now I'm working with JAVA and Spring Boot projects in IntelliJ.
+:nerd_face: Now I'm working with JAVA and Spring Boot projects in IntelliJ.
 _____________________________________________________
 
 🧰 **Languages and tools**
@@ -30,21 +30,21 @@ _____________________________________________________
 
 **My latest projects**:
 
-[Flight planner](https://github.com/Eugenio36/flight-planner)
+:airplane: [Flight planner](https://github.com/Eugenio36/flight-planner)
 
-[Java Exercises](https://github.com/Eugenio36/codelex-exercises)
+:coffee: [Java Exercises](https://github.com/Eugenio36/codelex-exercises)
 
-I also have completed some [Javascript exercises](https://github.com/Eugenio36/JavaScript-exercises).
+I also have completed some :open_file_folder: [Javascript exercises](https://github.com/Eugenio36/JavaScript-exercises).
 
-I`m currently working on [UI project](https://github.com/Eugenio36/front-end-with-angular-cli).
+I`m currently working on :technologist: [UI project](https://github.com/Eugenio36/front-end-with-angular-cli).
 _____________________________________________________
 
 **Connect with me:**
 
-My [LinkedIn](https://www.linkedin.com/in/jevgenijs-senderovics/) profile.
+My :link: [LinkedIn](https://www.linkedin.com/in/jevgenijs-senderovics/) profile.
 
-My [e-mail](evgzlk@gmail.com) 
+My :email: [e-mail](evgzlk@gmail.com). 
 
-My [CodingGame](https://www.codingame.com/profile/c6fe751ec19479322d7ff482bccc846b2805674) profile.
+My :video_game: [CodingGame](https://www.codingame.com/profile/c6fe751ec19479322d7ff482bccc846b2805674) profile.
 _____________________________________________________
 
